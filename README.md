@@ -4,16 +4,6 @@
 
 This project predicts house prices using Machine Learning. The model is trained on a housing dataset obtained from Kaggle and uses important house features to estimate the selling price of a house.
 
-The project was developed as a Major Project for the Bachelor of Computer Applications (BCA) program.
-
-## Student Information
-
-- Name: Gaurav Chandel
-- University Roll Number: 202301501412023
-- Course: BCA 6th Semester (Final Year)
-- College: Vallabh Govt College Mandi (H.P.)
-- Project Guide: Prof. Yogesh Choudhry
-
 ## Dataset
 
 The dataset was obtained from Kaggle Housing Price Prediction Dataset.
